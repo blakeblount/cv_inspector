@@ -1,0 +1,6 @@
+A) pad correct
+B) both pads correct
+C) top right hole on left pad is 11/16
+D) all holes on left pad are 11/16
+E) all holes on left pad are 11/16 and shifted 1/16 to the left
+F) all holes on left pad are shifted 1/16 to the left
